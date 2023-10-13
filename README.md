@@ -12,6 +12,9 @@
 <img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/c9d415c1-0fdc-47cc-b4a1-8a2daf0f6d2f" width="800" height="1000"/><br>
 <img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/da1de7ab-8deb-40fa-8ffd-77a53ff2c441" width="800" height="200"/><br>
 
+### 리액트 프로젝트 실행 - npm start
+<img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/7b49adbf-3d11-4a29-bba4-0ab6d605352a" width="800" height="1200"/><br>
+
 ### react 기본 VSCode Extension 
 <img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/be3fe763-8016-4d11-8e11-96fb6889f4ee" width="800" height="1200"/><br>
 
