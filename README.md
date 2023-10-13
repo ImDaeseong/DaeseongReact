@@ -7,3 +7,6 @@
 <img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/0a2008ce-51a8-4759-a6fc-0fc6c73f27e8" width="400" height="300"/><br>
 <img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/6d6061cc-373e-4407-8fa8-a12f21078f79" width="400" height="300"/><br>
 <img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/0c7740e6-2a15-4672-8b9f-797550cf07b5" width="400" height="300"/><br>
+
+### react 기본 VSCode Extension 
+<img src="https://github.com/ImDaeseong/DaeseongReact/assets/10001221/be3fe763-8016-4d11-8e11-96fb6889f4ee" width="400" height="1200"/><br>
